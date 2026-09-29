@@ -1,0 +1,19 @@
+Toon2Reels
+Copyright (c) 2026 Anji. Licensed under the MIT License; see LICENSE.
+
+Created by Anji with N (ChatGPT)
+https://anjimouse.com
+
+The Android implementation was designed for this project. It refers to the
+border-based panel detection, reading order, cropping, and video composition
+ideas in Anji's supplied Colab script, rather than copying its Python runtime
+or sequential speech-bubble workflow.
+
+N (ChatGPT) assisted with design, code, documentation, and verification as an
+AI tool/collaborator. N is not named as a legal copyright holder or academic
+author. This NOTICE summarizes provenance and does not modify the MIT terms.
+
+The test MP3 is a synthesized 440 Hz sine tone generated specifically for this
+project. The vector launcher icon is source code in app/src/main/res/drawable.
+External artwork, user comics, audio, fonts, and online services are not
+bundled. See THIRD_PARTY_NOTICES.md for dependency information.

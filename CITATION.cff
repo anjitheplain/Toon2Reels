@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you reuse Toon2Reels in research, cite this software. Keep the MIT copyright notice for code reuse."
+type: software
+title: "Toon2Reels"
+authors:
+  - name: "Anji"
+version: "1.0.0"
+license: MIT
+abstract: "An offline Android app that converts completed multi-panel comics into vertical MP4 short videos."
+keywords:
+  - android
+  - comics
+  - short-form-video
+  - offline

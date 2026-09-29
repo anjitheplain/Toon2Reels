@@ -1,0 +1,12 @@
+{
+  "title": "Toon2Reels",
+  "upload_type": "software",
+  "description": "Offline Android app for turning completed comic panels into vertical MP4 shorts. Created by Anji with N (ChatGPT); N assisted as an AI tool and is not an academic author.",
+  "creators": [
+    {"name": "Anji"}
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["Android", "Kotlin", "comics", "short-form video", "anjimouse"],
+  "access_right": "open"
+}

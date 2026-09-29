@@ -1,0 +1,23 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Toon2Reels",
+  "description": "Offline Android app that turns finished multi-panel comics into 9:16 H.264/AAC MP4 short videos.",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "author": {
+    "@type": "Person",
+    "name": "Anji"
+  },
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Anji"
+  },
+  "copyrightYear": "2026",
+  "programmingLanguage": "Kotlin",
+  "operatingSystem": "Android 10 or later",
+  "runtimePlatform": "Android API 29 or later",
+  "applicationCategory": "Multimedia",
+  "keywords": ["comics", "reels", "android", "offline", "short-form-video", "anjimouse"],
+  "url": "https://anjimouse.com"
+}
