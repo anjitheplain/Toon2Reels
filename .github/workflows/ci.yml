@@ -23,4 +23,4 @@ jobs:
       - run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
       - uses: gradle/actions/setup-gradle@v4
       - name: Unit tests, lint, and APKs
-        run: ./gradlew testDebugUnitTest lintDebug assembleDebug assembleDebugAndroidTest
+        run: bash ./gradlew testDebugUnitTest lintDebug assembleDebug assembleDebugAndroidTest
