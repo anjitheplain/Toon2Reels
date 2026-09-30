@@ -7,7 +7,10 @@
 
 ## 다운로드
 
-GitHub 공개 후 **Releases**의 `Toon2Reels-debug.apk`를 내려받아 Android 10(API 29) 이상에서 설치할 수 있습니다. 공개 전에는 소스에서 직접 빌드하세요. Debug APK는 개발용 서명입니다. 이전에 다른 debug 키로 서명된 APK를 설치했다면 업데이트 설치가 거절될 수 있으므로 기존 앱을 제거한 뒤 설치해야 합니다. 저장소 URL과 릴리스 링크는 실제 공개 후 추가합니다.
+[최신 릴리스에서 APK 다운로드](https://github.com/anjitheplain/Toon2Reels/releases/tag/v1.0.0)
+
+Assets의 `Toon2Reels-debug.apk`를 내려받아 Android 10 이상에서 설치하세요.
+첨부 APK는 디버그 서명 빌드입니다. 기존 앱과 서명이 다르면 업데이트 설치가 거절될 수 있습니다.
 
 ## 입력과 출력
 
